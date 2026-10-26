@@ -1,4 +1,4 @@
-First midterm exam for FYS448:
+First midterm exam for FYS4480:
 
 All handwritten notes for solving problems analytically can be found inside the folder "Analytical results".
 These handwritten notes were fed into Claude Sonnet 5.5 to turn them into latex file used to create the main report.
